@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BonjourBrowser</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+
+    <string name="settings">Settings</string>
+    <string name="prefInternal">Internal Browser</string>
+    <string name="prefKeepOn">Keep Screen On</string>
+    <string name="prefReset">Reset Web Storage (Restart)</string>
+    <string name="loading">Loading </string>
+    <string name="authentication">Authentication required</string>
+    <string name="textZoom">Text Zoom</string>
+</resources>
